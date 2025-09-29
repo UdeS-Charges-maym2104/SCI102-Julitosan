@@ -1,3 +1,3 @@
 
-def salutations(nom: str):
+def salutations(nom):
     return f"Bonjour {nom}."
